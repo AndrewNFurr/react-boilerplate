@@ -1,1 +1,3 @@
-console.log('hello)
+REACT practice
+
+Run `npm install' first
